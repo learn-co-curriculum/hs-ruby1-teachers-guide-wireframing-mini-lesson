@@ -1,4 +1,4 @@
-<h1>WireFraming Mini-Lesson</h1>
+<h1>Unit 8: WireFraming Mini-Lesson</h1>
 ***This should take about 45 minutes***
 
 <b>Each group needs…</b> 
