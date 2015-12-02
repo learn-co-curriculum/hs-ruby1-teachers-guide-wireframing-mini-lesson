@@ -18,3 +18,5 @@ A wireframe is a blueprint for a website. It is a skeletal map for what a websit
   + What sort of header and footer do you want on your page? Does it include the title of your story? **Groups spend 5 minutes thinking about header and footer. Draw them out on paper/whiteboard**
   + Where does the text and buttons go in relation to the header and footer? What about images, are you using any? If so, where in relation to what parts of the story? It’s important for user experience that each page is similar. People will expect buttons to go in the same place, etc. **Students spend 6 minutes thinking about images and layout.**
   + Once you have a clear idea of what the page should look like as a group, you should map out wireframes on Gliffy. **Students should spend 15 minutes drawing a wireframe on Gliffy.**
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-wireframing-mini-lesson' data-visibility='hidden'>View this lesson on Learn.co</a>
